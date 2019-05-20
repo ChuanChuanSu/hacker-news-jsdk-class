@@ -1,0 +1,1 @@
+# 使用class模式的hacker-news的JSDK
